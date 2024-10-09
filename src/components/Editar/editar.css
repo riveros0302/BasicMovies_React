@@ -1,0 +1,30 @@
+.edit_form {
+  margin-top: 10px;
+  border-top: 2px solid #e7e6e7;
+  border-width: 2px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  row-gap: 10px;
+}
+
+.formulario > input[type="text"],
+.formulario > textarea {
+  height: 40px;
+  width: 60%;
+  text-align: left;
+  background-color: #f6f7fa;
+  text-transform: capitalize;
+  border: none;
+  border-radius: 5px;
+}
+
+.formulario > textarea {
+  height: 70px;
+  line-height: 70px;
+}

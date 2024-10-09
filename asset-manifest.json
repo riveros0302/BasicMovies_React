@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/riveros0302/BasicMovies_React/static/css/main.76a5e0d3.css",
-    "main.js": "/riveros0302/BasicMovies_React/static/js/main.49100b8a.js",
-    "index.html": "/riveros0302/BasicMovies_React/index.html",
-    "main.76a5e0d3.css.map": "/riveros0302/BasicMovies_React/static/css/main.76a5e0d3.css.map",
-    "main.49100b8a.js.map": "/riveros0302/BasicMovies_React/static/js/main.49100b8a.js.map"
+    "main.css": "/BasicMovies_React/static/css/main.76a5e0d3.css",
+    "main.js": "/BasicMovies_React/static/js/main.49100b8a.js",
+    "index.html": "/BasicMovies_React/index.html",
+    "main.76a5e0d3.css.map": "/BasicMovies_React/static/css/main.76a5e0d3.css.map",
+    "main.49100b8a.js.map": "/BasicMovies_React/static/js/main.49100b8a.js.map"
   },
   "entrypoints": [
     "static/css/main.76a5e0d3.css",
